@@ -1,0 +1,42 @@
+1. crear proyecto
+
+composer create-project laravel/laravel name_project( aqui ponemos el nombre del proyecto a crear)
+
+2. instalar el jetstream
+
+composer require laravel/jetstream
+
+3. instalar el livewire
+
+php artisan jetstream:install livewire
+
+4. configurar las vistas del  jetstream
+
+php artisan vendor:publish --tag=jetstream-views
+
+6. ajustar el .env con las credenciales de la BD
+
+5. terminar las configuraciones del jetstream
+
+npm install
+npm run dev
+php artisan migrate
+
+6. vincualar git
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/estebanberrio/Ausentismos.git
+git push -u origin main
+
+
+/*/*/*
+
+realizar migraciones
+
+1. cargar proyecto
+
+2. hacer checkout a la branch para el proceso.
+git checkout -b "migrations"
