@@ -1,0 +1,620 @@
+{
+    "data": [
+        {
+            "personal": [
+                {
+                    "code": "000",
+                    "value": "CAPACIDAD FÍSICA/FISIOLÓGICA INADECUADA"
+                },
+                {
+                    "code": "001",
+                    "value": "Altura, peso, talla, fuerza, alcance, etc. Inadecuados"
+                },
+                {
+                    "code": "002",
+                    "value": "Capacidad de movimiento corporal limitada"
+                },
+                {
+                    "code": "003",
+                    "value": "Capacidad limitada para mantenerse en determinadas posiciones corporales"
+                },
+                {
+                    "code": "004",
+                    "value": "Sensibilidad a ciertas sustancias o alergias"
+                },
+                {
+                    "code": "005",
+                    "value": "Sensibilidad a determinados extremos sensoriales (temperatura, sonido, etc.)"
+                },
+                {
+                    "code": "006",
+                    "value": "Visión defectuosa"
+                },
+                {
+                    "code": "007",
+                    "value": "Audición defectuosa"
+                },
+                {
+                    "code": "008",
+                    "value": "Otras deficiencias sensoriales (tacto, gusto, olfato, equilibrio)"
+                },
+                {
+                    "code": "009",
+                    "value": "Incapacidad respiratoria"
+                },
+                {
+                    "code": "010",
+                    "value": "Otras incapacidades físicas permanentes"
+                },
+                {
+                    "code": "011",
+                    "value": "Incapacidades temporales"
+                },
+                {
+                    "code": "100",
+                    "value": "CAPACIDAD MENTAL/PSICOLÓGICA INADECUADA"
+                },
+                {
+                    "code": "101",
+                    "value": "Temores y fobias"
+                },
+                {
+                    "code": "102",
+                    "value": "Problemas emocionales"
+                },
+                {
+                    "code": "103",
+                    "value": "Enfermedad mental"
+                },
+                {
+                    "code": "104",
+                    "value": "Nivel de inteligencia"
+                },
+                {
+                    "code": "105",
+                    "value": "Incapacidad de comprensión"
+                },
+                {
+                    "code": "106",
+                    "value": "Falta de juicio"
+                },
+                {
+                    "code": "107",
+                    "value": "Escasa coordinación"
+                },
+                {
+                    "code": "108",
+                    "value": "Bajo tiempo de reacción"
+                },
+                {
+                    "code": "109",
+                    "value": "Aptitud mecánica deficiente"
+                },
+                {
+                    "code": "110",
+                    "value": "Baja aptitud de aprendizaje"
+                },
+                {
+                    "code": "111",
+                    "value": "Problemas de memoria"
+                },
+                {
+                    "code": "200",
+                    "value": "TENSIÓN FÍSICA O FISIOLÓGICA"
+                },
+                {
+                    "code": "201",
+                    "value": "Lesión o enfermedad"
+                },
+                {
+                    "code": "202",
+                    "value": "Fatiga debido a la carga o duración de las tareas"
+                },
+                {
+                    "code": "203",
+                    "value": "Fatiga debido a la falta de descanso"
+                },
+                {
+                    "code": "204",
+                    "value": "Fatiga debido a la sobrecarga sensorial"
+                },
+                {
+                    "code": "205",
+                    "value": "Exposición a riesgos contra la salud"
+                },
+                {
+                    "code": "206",
+                    "value": "Exposición a temperaturas extremas"
+                },
+                {
+                    "code": "207",
+                    "value": "Insuficiencia de oxígeno"
+                },
+                {
+                    "code": "208",
+                    "value": "Variaciones en la presión atmosférica"
+                },
+                {
+                    "code": "209",
+                    "value": "Restricción de movimiento"
+                },
+                {
+                    "code": "210",
+                    "value": "Insuficiencia de azúcar en la sangre"
+                },
+                {
+                    "code": "211",
+                    "value": "Ingestión de drogas"
+                },
+                {
+                    "code": "300",
+                    "value": "TENSIÓN MENTAL O PSICOLÓGICA"
+                },
+                {
+                    "code": "301",
+                    "value": "Sobrecarga emocional"
+                },
+                {
+                    "code": "302",
+                    "value": "Fatiga debida a la carga o las limitaciones de tiempo de la tarea mental"
+                },
+                {
+                    "code": "303",
+                    "value": "Obligaciones que exigen un juicio o toma de decisiones extremas"
+                },
+                {
+                    "code": "304",
+                    "value": "Rutina, monotonía, exigencias para un cargo sin trascendencia"
+                },
+                {
+                    "code": "305",
+                    "value": "Exigencia de una concentración/percepción profunda"
+                },
+                {
+                    "code": "306",
+                    "value": "Actividades 'insignificantes' o 'degradantes'"
+                },
+                {
+                    "code": "307",
+                    "value": "Órdenes confusas"
+                },
+                {
+                    "code": "308",
+                    "value": "Solicitudes conflictivas"
+                },
+                {
+                    "code": "309",
+                    "value": "Preocupación debido a problemas"
+                },
+                {
+                    "code": "310",
+                    "value": "Frustraciones"
+                },
+                {
+                    "code": "311",
+                    "value": "Enfermedad mental"
+                },
+                {
+                    "code": "400",
+                    "value": "FALTA DE CONOCIMIENTO"
+                },
+                {
+                    "code": "401",
+                    "value": "Falta de experiencia"
+                },
+                {
+                    "code": "402",
+                    "value": "Orientación deficiente"
+                },
+                {
+                    "code": "403",
+                    "value": "Entrenamiento inicial inadecuado"
+                },
+                {
+                    "code": "404",
+                    "value": "Reentrenamiento insuficiente"
+                },
+                {
+                    "code": "405",
+                    "value": "Ordenes mal interpretadas"
+                },
+                {
+                    "code": "500",
+                    "value": "FALTA DE HABILIDAD"
+                },
+                {
+                    "code": "501",
+                    "value": "Instrucción inicial insuficiente"
+                },
+                {
+                    "code": "502",
+                    "value": "Práctica insuficiente"
+                },
+                {
+                    "code": "503",
+                    "value": "Operación esporádica"
+                },
+                {
+                    "code": "504",
+                    "value": "Falta de preparación"
+                },
+                {
+                    "code": "600",
+                    "value": "MOTIVACIÓN DEFICIENTE"
+                },
+                {
+                    "code": "601",
+                    "value": "El desempeño subestándar es más gratificante"
+                },
+                {
+                    "code": "602",
+                    "value": "El desempeño estándar causa desagrado"
+                },
+                {
+                    "code": "603",
+                    "value": "Falta de incentivos"
+                },
+                {
+                    "code": "604",
+                    "value": "Demasiadas frustraciones"
+                },
+                {
+                    "code": "605",
+                    "value": "Falta de desafíos"
+                },
+                {
+                    "code": "606",
+                    "value": "No existe intención de ahorro de tiempo y esfuerzo"
+                },
+                {
+                    "code": "607",
+                    "value": "No existe interés para evitar la incomodidad"
+                },
+                {
+                    "code": "608",
+                    "value": "Sin interés por sobresalir"
+                },
+                {
+                    "code": "609",
+                    "value": "Presión indebida de los compañeros"
+                },
+                {
+                    "code": "610",
+                    "value": "Ejemplo deficiente por parte de la supervisión"
+                },
+                {
+                    "code": "611",
+                    "value": "Retroalimentación deficiente en relación con el desempeño"
+                },
+                {
+                    "code": "612",
+                    "value": "Falta de refuerzo positivo para el comportamiento correcto"
+                },
+                {
+                    "code": "613",
+                    "value": "Falta de incentivos de producción"
+                },
+                {
+                    "code": "",
+                    "value": "No hay Factor Personal identificado,"
+                }
+            ]
+        },
+        {
+            "work": [
+                {
+                    "code": "000",
+                    "value": "SUPERVISIÓN Y LIDERAZGO DEFICIENTES"
+                },
+                {
+                    "code": "001",
+                    "value": "Relaciones jerárquicas poco claras o conflictivas"
+                },
+                {
+                    "code": "002",
+                    "value": "Asignación de responsabilidades poco claras o conflictivas"
+                },
+                {
+                    "code": "003",
+                    "value": "Delegación insuficiente o inadecuada"
+                },
+                {
+                    "code": "004",
+                    "value": "Definir políticas, procedimientos, prácticas o líneas de acción inadecuadas"
+                },
+                {
+                    "code": "005",
+                    "value": "Formulación de objetivos, metas o estándares que ocasionan conflictos"
+                },
+                {
+                    "code": "006",
+                    "value": "Programación o planificación insuficiente del trabajo"
+                },
+                {
+                    "code": "007",
+                    "value": "Instrucción, orientación y/o entrenamiento insuficientes"
+                },
+                {
+                    "code": "008",
+                    "value": "Entrega insuficiente de documentos de consulta, de instrucciones y de publicaciones guías"
+                },
+                {
+                    "code": "009",
+                    "value": "Identificación y evaluación deficiente de las exposiciones a pérdida"
+                },
+                {
+                    "code": "010",
+                    "value": "Falta de conocimiento en el trabajo de supervisión/ administración"
+                },
+                {
+                    "code": "011",
+                    "value": "Ubicación inadecuada del trabajador, de acuerdo con sus cualidades y con las exigencias que demanda la tarea"
+                },
+                {
+                    "code": "012",
+                    "value": "Medición y evaluación deficientes del desempeño"
+                },
+                {
+                    "code": "013",
+                    "value": "Retroalimentación deficiente o incorrecta en relación con el desempeño"
+                },
+                {
+                    "code": "100",
+                    "value": "INGENIERÍA INADECUADA"
+                },
+                {
+                    "code": "101",
+                    "value": "Evaluación insuficiente de las exposiciones a pérdidas"
+                },
+                {
+                    "code": "102",
+                    "value": "Preocupación deficiente en cuanto a los factores humanos/ergonómicos"
+                },
+                {
+                    "code": "103",
+                    "value": "Estándares, especificaciones y/o criterios de diseño inadecuados"
+                },
+                {
+                    "code": "104",
+                    "value": "Control e inspecciones inadecuados de las construcciones"
+                },
+                {
+                    "code": "105",
+                    "value": "Evaluación deficiente de la condición conveniente para operar"
+                },
+                {
+                    "code": "106",
+                    "value": "Evaluación deficiente para el comienzo de una operación"
+                },
+                {
+                    "code": "107",
+                    "value": "Evaluación insuficiente respecto a los cambios que se produzcan"
+                },
+                {
+                    "code": "200",
+                    "value": "DEFICIENCIA EN LAS ADQUISICIONES"
+                },
+                {
+                    "code": "201",
+                    "value": "Especificaciones deficientes en cuanto a los requerimientos"
+                },
+                {
+                    "code": "202",
+                    "value": "Investigación insuficiente respecto a las materias y a los equipos"
+                },
+                {
+                    "code": "203",
+                    "value": "Especificaciones deficientes para los vendedores"
+                },
+                {
+                    "code": "204",
+                    "value": "Modalidad o ruta de embarque inadecuada"
+                },
+                {
+                    "code": "205",
+                    "value": "Inspecciones de recepción y aceptación deficientes"
+                },
+                {
+                    "code": "206",
+                    "value": "Comunicación inadecuada de las informaciones sobre aspectos de seguridad y salud"
+                },
+                {
+                    "code": "207",
+                    "value": "Manejo inadecuado de los materiales"
+                },
+                {
+                    "code": "208",
+                    "value": "Almacenamiento inadecuado de los materiales"
+                },
+                {
+                    "code": "209",
+                    "value": "Transporte inadecuado de los materiales"
+                },
+                {
+                    "code": "210",
+                    "value": "Identificación deficiente de los ítems que implican riesgos"
+                },
+                {
+                    "code": "211",
+                    "value": "Sistemas deficientes de recuperación o de eliminación de desechos"
+                },
+                {
+                    "code": "300",
+                    "value": "MANTENCIÓN DEFICIENTE"
+                },
+                {
+                    "code": "301",
+                    "value": "Aspectos preventivos inadecuados para evaluación de necesidades"
+                },
+                {
+                    "code": "302",
+                    "value": "Aspectos preventivos inadecuados para lubricación y servicio"
+                },
+                {
+                    "code": "303",
+                    "value": "Aspectos preventivos inadecuados para ajuste/ ensamble"
+                },
+                {
+                    "code": "304",
+                    "value": "Aspectos preventivos inadecuados para limpieza o pulimento"
+                },
+                {
+                    "code": "305",
+                    "value": "Aspectos correctivos inapropiados para comunicación de necesidades"
+                },
+                {
+                    "code": "306",
+                    "value": "Aspectos correctivos inapropiados para programación del trabajo"
+                },
+                {
+                    "code": "307",
+                    "value": "Aspectos correctivos inapropiados para revisión de las piezas"
+                },
+                {
+                    "code": "308",
+                    "value": "Aspectos correctivos inapropiados para reemplazo de partes defectuosas"
+                },
+                {
+                    "code": "400",
+                    "value": "HERRAMIENTAS Y EQUIPOS INADECUADOS"
+                },
+                {
+                    "code": "401",
+                    "value": "Evaluación deficiente de las necesidades y los riesgos"
+                },
+                {
+                    "code": "402",
+                    "value": "Preocupación deficiente en cuanto a los factores humanos/ergonómicos"
+                },
+                {
+                    "code": "403",
+                    "value": "Estándares o especificaciones inadecuadas"
+                },
+                {
+                    "code": "404",
+                    "value": "Disponibilidad inadecuada"
+                },
+                {
+                    "code": "405",
+                    "value": "Ajustes/reparación/mantención deficiente"
+                },
+                {
+                    "code": "406",
+                    "value": "Sistema deficiente de reparación y recuperación de materiales"
+                },
+                {
+                    "code": "407",
+                    "value": "Eliminación y reemplazo inapropiados de piezas defectuosas"
+                },
+                {
+                    "code": "500",
+                    "value": "ESTÁNDARES DEFICIENTES DE TRABAJO"
+                },
+                {
+                    "code": "501",
+                    "value": "Desarrollo inadecuado de normas para inventario y evaluación de las exposiciones y necesidades"
+                },
+                {
+                    "code": "502",
+                    "value": "Desarrollo inadecuado de normas para coordinación con quienes diseñan el proceso"
+                },
+                {
+                    "code": "503",
+                    "value": "Desarrollo inadecuado de normas para compromiso con el trabajador"
+                },
+                {
+                    "code": "504",
+                    "value": "Desarrollo inadecuado de normas para estándares/ procedimientos/ reglas inconsistentes"
+                },
+                {
+                    "code": "505",
+                    "value": "Comunicación inadecuada de las normas de publicación"
+                },
+                {
+                    "code": "506",
+                    "value": "Comunicación inadecuada de las normas de distribución"
+                },
+                {
+                    "code": "507",
+                    "value": "Comunicación inadecuada de las normas de adaptación a las lenguas respectivas"
+                },
+                {
+                    "code": "508",
+                    "value": "Comunicación inadecuada de las normas de entrenamiento"
+                },
+                {
+                    "code": "509",
+                    "value": "Comunicación inadecuada de las normas de reforzamiento mediante afiche, código de colores y ayudas para el trabajo"
+                },
+                {
+                    "code": "510",
+                    "value": "Manutención inadecuada de las normas de seguimiento del flujo de trabajo"
+                },
+                {
+                    "code": "511",
+                    "value": "Manutención inadecuada de las normas de actualización"
+                },
+                {
+                    "code": "512",
+                    "value": "Manutención inadecuada de las normas de control de uso de normas, procedimientos o reglamentos"
+                },
+                {
+                    "code": "600",
+                    "value": "USO Y DESGASTE"
+                },
+                {
+                    "code": "601",
+                    "value": "Planificación inadecuada del uso"
+                },
+                {
+                    "code": "602",
+                    "value": "Prolongación excesiva de la vida útil del elemento"
+                },
+                {
+                    "code": "603",
+                    "value": "Inspección o control deficientes"
+                },
+                {
+                    "code": "604",
+                    "value": "Sobrecarga o proporción de uso excesivo"
+                },
+                {
+                    "code": "605",
+                    "value": "Manutención deficiente"
+                },
+                {
+                    "code": "606",
+                    "value": "Empleo del elemento por personas no calificadas o sin preparación"
+                },
+                {
+                    "code": "607",
+                    "value": "Empleo inadecuado para otros propósitos"
+                },
+                {
+                    "code": "700",
+                    "value": "ABUSO O MALTRATO"
+                },
+                {
+                    "code": "701",
+                    "value": "Permitidos por la supervisión intencionalmente"
+                },
+                {
+                    "code": "702",
+                    "value": "Permitidos por la supervisión no intencionalmente"
+                },
+                {
+                    "code": "703",
+                    "value": "No permitidos por la supervisión intencionalmente"
+                },
+                {
+                    "code": "704",
+                    "value": "No permitidos por la supervisión no intencionalmente"
+                },
+                {
+                    "code": "",
+                    "value": "No hay Factor del Trabajo identificado"
+                }
+            ]
+        }
+    ]
+}

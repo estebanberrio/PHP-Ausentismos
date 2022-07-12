@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "code": "1",
+            "value": "MÁQUINAS Y/O EQUIPOS"
+        },
+        {
+            "code": "2",
+            "value": "MEDIOS DE TRANSPORTE"
+        },
+        {
+            "code": "3",
+            "value": "APARATOS"
+        },
+        {
+            "code": "3.36",
+            "value": "HERRAMIENTAS, IMPLEMENTOS O UTENSILIOS"
+        },
+        {
+            "code": "4",
+            "value": "MATERIALES O SUSTANCIAS"
+        },
+        {
+            "code": "4.4",
+            "value": "RADIACIONES"
+        },
+        {
+            "code": "5",
+            "value": "AMBIENTE DE TRABAJO (Incluye superficies de tránsito y de trabajo, muebles, tejados, en el exterior, interior o subterráneos)"
+        },
+        {
+            "code": "6",
+            "value": "OTROS AGENTES NO CLASIFICADOS"
+        },
+        {
+            "code": "6.61",
+            "value": "ANIMALES (Vivos o productos animales)"
+        },
+        {
+            "code": "7",
+            "value": "AGENTES NO CLASIFICADOS POR FALTA DE DATOS"
+        }
+    ]
+}

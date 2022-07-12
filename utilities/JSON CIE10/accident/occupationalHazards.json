@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "code": "",
+            "value": "RIESGO ELECTRICO"
+        },
+        {
+            "code": "",
+            "value": "RIESGO BIOMECANICO/ERGONÓMICO"
+        },
+        {
+            "code": "",
+            "value": "RIESGO FÍSICO"
+        },
+        {
+            "code": "",
+            "value": "RIESGO QUÍMICO"
+        },
+        {
+            "code": "",
+            "value": "RIESGO MECÁNICO"
+        },
+        {
+            "code": "",
+            "value": "RIESGO LOCATIVO"
+        },
+        {
+            "code": "",
+            "value": "RIESGO PÚBLICO"
+        },
+        {
+            "code": "",
+            "value": "RIESGO BIOLOGICO"
+        },
+        {
+            "code": "",
+            "value": "RIESGO NATURAL"
+        },
+        {
+            "code": "",
+            "value": "RIESGO PSICOSOCIAL"
+        },
+        {
+            "code": "",
+            "value": "RIESGO TRANSITO"
+        }
+    ]
+}

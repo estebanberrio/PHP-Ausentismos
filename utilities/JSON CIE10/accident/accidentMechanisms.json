@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "code": "1",
+            "value": "CAÍDA DE PERSONAS"
+        },
+        {
+            "code": "2",
+            "value": "CAÍDA DE OBJETOS"
+        },
+        {
+            "code": "3",
+            "value": "PISADAS, CHOQUES O GOLPES"
+        },
+        {
+            "code": "4",
+            "value": "ATRAPAMIENTOS"
+        },
+        {
+            "code": "5",
+            "value": "SOBREESFUERZO, ESFUERZO EXCESIVO O FALSO MOVIMIENTO"
+        },
+        {
+            "code": "6",
+            "value": "EXPOSICIÓN O CONTACTO CON TEMPERATURA EXTREMA"
+        },
+        {
+            "code": "7",
+            "value": "EXPOSICIÓN O CONTACTO CON LA ELECTRICIDAD"
+        },
+        {
+            "code": "8",
+            "value": "EXPOSICIÓN O CONTACTO CON SUSTANCIAS NOCIVAS, RADIACIONES O SALPICADURAS"
+        },
+        {
+            "code": "",
+            "value": "CONTACTO CON ELEMENTOS CORTOPUNZANTES"
+        },
+        {
+            "code": "9",
+            "value": "OTRO"
+        }
+    ]
+}

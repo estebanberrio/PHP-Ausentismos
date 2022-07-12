@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "code": "1",
+            "value": "CABEZA"
+        },
+        {
+            "code": "1.12",
+            "value": "OJO"
+        },
+        {
+            "code": "2",
+            "value": "CUELLO"
+        },
+        {
+            "code": "3",
+            "value": "TRONCO (Incluye espalda, columna vertebral, médula espinal, pélvis)"
+        },
+        {
+            "code": "3.32",
+            "value": "TÓRAX"
+        },
+        {
+            "code": "3.33",
+            "value": "ABDOMEN"
+        },
+        {
+            "code": "4",
+            "value": "MIEMBROS SUPERIORES"
+        },
+        {
+            "code": "4.46",
+            "value": "MANOS"
+        },
+        {
+            "code": "5",
+            "value": "MIEMBROS INFERIORES"
+        },
+        {
+            "code": "5.56",
+            "value": "PIES"
+        },
+        {
+            "code": "6",
+            "value": "UBICACIONES MÚLTIPLES"
+        },
+        {
+            "code": "7",
+            "value": "LESIONES GENERALES U OTRAS"
+        }
+    ]
+}
