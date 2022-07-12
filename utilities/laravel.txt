@@ -40,3 +40,25 @@ realizar migraciones
 
 2. hacer checkout a la branch para el proceso.
 git checkout -b "migrations"
+
+3. cambiar routes /app/routes/
+* web.php
+
+allí agregamos la nueva ruta
+luego creamos el controller
+
+php artisan make:controller nombre_controlador
+
+luego agregamos la vista a views
+
+
+/*/*/
+
+crear modelos y migraciones
+
+php artisan make:model Employee -m
+php artisan make:model Inability -m
+php artisan make:model Payment -m
+
+
+
