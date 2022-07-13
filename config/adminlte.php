@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'Ausentismos',
+    'title' => 'View Foundation',
     'title_prefix' => 'Ausentismos |',
     'title_postfix' => '',
 
@@ -45,8 +45,8 @@ return [
     |
     */
 
-    'logo' => '<b>Ausentismos</b>',
-    'logo_img' => 'vendor/adminlte/dist/img/AdminLTELogo.png',
+    'logo' => '<b style="color:#17a2b8">View Foundation</style=></b>',
+    'logo_img' => 'vendor/adminlte/dist/img/AdminLTELogo3.png',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
     'logo_img_xl_class' => 'brand-image-xs',
@@ -66,7 +66,7 @@ return [
 
     'usermenu_enabled' => true,
     'usermenu_header' => false,
-    'usermenu_header_class' => 'bg-primary',
+    'usermenu_header_class' => 'bg-cyan',
     'usermenu_image' => false,
     'usermenu_desc' => false,
     'usermenu_profile_url' => false,
@@ -133,7 +133,7 @@ return [
     'classes_content' => '',
     'classes_sidebar' => 'sidebar-light-primary 4 elevation',
     'classes_sidebar_nav' => '',
-    'classes_topnav' => 'navbar-dark navbar-light',
+    'classes_topnav' => 'navbar-cyan navbar-dark',
     'classes_topnav_nav' => 'navbar-expand',
     'classes_topnav_container' => 'container',
 
@@ -157,7 +157,7 @@ return [
     'sidebar_scrollbar_theme' => 'os-theme-dark',
     'sidebar_scrollbar_auto_hide' => 'l',
     'sidebar_nav_accordion' => true,
-    'sidebar_nav_animation_speed' => 300,
+    'sidebar_nav_animation_speed' => 500,
 
     /*
     |--------------------------------------------------------------------------
@@ -173,8 +173,8 @@ return [
 
     'right_sidebar' => false,
     'right_sidebar_icon' => 'fas fa-cogs',
-    'right_sidebar_theme' => 'dark',
-    'right_sidebar_slide' => true,
+    'right_sidebar_theme' => 'light',
+    'right_sidebar_slide' => false,
     'right_sidebar_push' => true,
     'right_sidebar_scrollbar_theme' => 'os-theme-light',
     'right_sidebar_scrollbar_auto_hide' => 'l',
@@ -192,7 +192,7 @@ return [
     */
 
     'use_route_url' => false,
-    'dashboard_url' => 'home',
+    'dashboard_url' => 'http://localhost:8000/',
     'logout_url' => 'logout',
     'login_url' => 'login',
     'register_url' => 'register',
@@ -260,47 +260,57 @@ return [
         ['header' => 'ADMINISTRACIÓN'],
         [
             'text' => 'Usuarios',
-            'url'  => 'admin/settings',
+            'route'  => 'administrador.users.index',
             'icon' => 'fas fa-fw fa-user',
+            //'icon_color' => 'grey',
+            'active' => ['administrador/users*'],
+
         ],
         [
             'text' => 'Perfiles y Roles',
-            'url'  => 'admin/settings',
+            'url'  => 'http://localhost:8000/',
             'icon' => 'fas fa-fw fa-lock',
+            //'icon_color' => 'cyan',
         ],
 
         ['header' => 'CONTROL Y REGISTRO'],
         [
             'text' => 'Empleados',
-            'url'  => 'admin/settings',
+            'url'  => 'http://localhost:8000/',
             'icon' => 'fas fa-users',
+            //'icon_color' => 'cyan',
         ],
         [
             'text' => 'Ausentismos',
-            'url'  => 'admin/settings',
+            'url'  => 'http://localhost:8000/',
             'icon' => 'fas fa-ambulance',
+            //'icon_color' => 'cyan',
         ],
 
         ['header' => 'INFORMES'],
         [
             'text' => 'Reportes por Área',
-            'url'  => 'admin/settings',
+            'url'  => 'http://localhost:8000/',
             'icon' => 'fas fa-clipboard',
+            //'icon_color' => 'cyan',
         ],
         [
             'text' => 'Reportes por Incapacidad',
-            'url'  => 'admin/settings',
+            'url'  => 'http://localhost:8000/',
             'icon' => 'fas fa-file-medical',
+            //'icon_color' => 'cyan',
         ],
         [
             'text' => 'Estado de Cuenta',
-            'url'  => 'admin/settings',
+            'url'  => 'http://localhost:8000/',
             'icon' => 'fas fa-file-invoice-dollar',
+            //'icon_color' => 'cyan',
         ],
         [
             'text' => 'Reportes por Empleados',
-            'url'  => 'admin/settings',
+            'url'  => 'http://localhost:8000/',
             'icon' => 'fas fa-file-medical-alt',
+            //'icon_color' => 'cyan',
         ],
         // [
         //     'text'    => 'multilevel',
