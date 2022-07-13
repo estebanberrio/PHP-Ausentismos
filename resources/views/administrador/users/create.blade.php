@@ -9,7 +9,14 @@
 @stop
 
 @section('content')
-    <p>Aquí va el table para el crud</p>
+    <div class="card">
+        <div class="card-body">
+            {!! Form::open(['route' => 'administrador.users.store']) !!}
+                @include('administrador.users.partials.form')
+                {!!  Form::submit('Crear Usuario', ['class'=> 'btn btn-outline-danger']) !!}
+            {!! Form::close() !!}
+        </div>
+    </div>
 @stop
 
 @section('css')

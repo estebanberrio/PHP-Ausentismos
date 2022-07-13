@@ -5,13 +5,16 @@ namespace App\Http\Controllers\Administrador;
 use App\Http\Controllers\Controller;
 use Illuminate\Contracts\View\View;
 use Illuminate\Http\Request;
+use app\Models\User;
 
 class UserController extends Controller
 {
 
     public function index()
     {
-        return view('administrador.users.index');
+        $users = User::all();
+        //dd($users);
+        return view('administrador.users.index', compact('users'));
     }
 
     public function create()
