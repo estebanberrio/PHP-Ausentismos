@@ -6,6 +6,9 @@ use App\Http\Controllers\Controller;
 use Illuminate\Contracts\View\View;
 use Illuminate\Http\Request;
 use app\Models\User;
+use Exception;
+use Illuminate\Support\Facades\Redirect;
+use RealRashid\SweetAlert\Facades\Alert;
 
 class UserController extends Controller
 {
@@ -24,7 +27,18 @@ class UserController extends Controller
 
     public function store(Request $request)
     {
-        //
+        try
+        {
+            User::create($request->all());
+            Alert::info('Éxito', 'Usuario Guardado!');
+            return Redirect()->route('administrador.users.index');
+        }
+        catch(Exception $e)
+        {
+            //dd($request);
+            return "Upss algo salio mal.";
+
+        }
     }
 
     public function show($id)
@@ -34,7 +48,7 @@ class UserController extends Controller
 
     public function edit($id)
     {
-        //
+        dd($id);
     }
 
     public function update(Request $request, $id)
@@ -42,8 +56,8 @@ class UserController extends Controller
         //
     }
 
-    public function destroy($id)
+    public function destroy(Request $request, $id)
     {
-        //
+        dd($id);
     }
 }

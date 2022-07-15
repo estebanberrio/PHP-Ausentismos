@@ -15,7 +15,8 @@ class UserSeeder extends Seeder
         ([
          'name' => 'Juan Esteban Berrío',
          'email' => 'juanestebanberrio@gmail.com',
-         'password' => bcrypt('123456')
+         'password' => bcrypt('einstein1984'),
+         'status' => 'Activo'
         ]);
     }
 }
