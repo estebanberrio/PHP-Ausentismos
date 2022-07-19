@@ -9,6 +9,7 @@ use app\Models\User;
 use Exception;
 use Illuminate\Support\Facades\Redirect;
 use RealRashid\SweetAlert\Facades\Alert;
+@include('sweetalert::alert');
 
 class UserController extends Controller
 {
@@ -30,14 +31,13 @@ class UserController extends Controller
         try
         {
             User::create($request->all());
-            Alert::info('Éxito', 'Usuario Guardado!');
+            Alert::success('Éxito', 'Usuario Guardado!');
             return Redirect()->route('administrador.users.index');
         }
         catch(Exception $e)
         {
             //dd($request);
-            return "Upss algo salio mal.";
-
+            return "Upss algo ha salido muy mal!";
         }
     }
 

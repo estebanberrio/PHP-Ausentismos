@@ -93,3 +93,17 @@ example index
 @stop
 
 
+
+*/*/*/*/
+
+spatie
+https://spatie.be/docs/laravel-permission/v5/installation-laravel
+
+composer require spatie/laravel-permission
+
+
+[09:05 p. m.] Andrés León
+https://github.com/lola-mento/cafetin.git
+GitHub - lola-mento/cafetin
+Contribute to lola-mento/cafetin development by creating an account on GitHub.
+

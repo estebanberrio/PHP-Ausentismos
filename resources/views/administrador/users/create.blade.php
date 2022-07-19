@@ -11,7 +11,7 @@
         <div class="card-body">
             {!! Form::open(['route' => 'administrador.users.store']) !!}
                 @include('administrador.users.partials.form')
-                {!!  Form::submit('Crear Usuario', ['class'=> 'btn btn-outline-info btn-sm']) !!}
+                {!!  Form::submit('Crear Usuario', ['class'=> 'btn btn-outline-info']) !!}
             {!! Form::close() !!}
         </div>
     </div>
