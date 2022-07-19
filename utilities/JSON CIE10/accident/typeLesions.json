@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "code": "10",
+            "value": "FRACTURA"
+        },
+        {
+            "code": "20",
+            "value": "LUXACIÓN"
+        },
+        {
+            "code": "25",
+            "value": "TORCEDURA, ESGUINCE, DESGARRO MUSCULAR, HERNIA O LACERACIÓN DE MÚSCULO O TENDÓN SIN HERIDA"
+        },
+        {
+            "code": "30",
+            "value": "CONMOCIÓN O TRAUMA INTERNO"
+        },
+        {
+            "code": "40",
+            "value": "AMPUTACIÓN O ENUCLEACIÓN (Exclusión o pérdida del ojo)"
+        },
+        {
+            "code": "41",
+            "value": "HERIDA"
+        },
+        {
+            "code": "50",
+            "value": "TRAUMA SUPERFICIAL (Incluye rasguño, punción o pinchazo y lesión en ojo por cuerpo extraño)"
+        },
+        {
+            "code": "55",
+            "value": "GOLPE, CONTUSIÓN O APLASTAMIENTO"
+        },
+        {
+            "code": "60",
+            "value": "QUEMADURA"
+        },
+        {
+            "code": "70",
+            "value": "ENVENENAMIENTO O INTOXICACIÓN AGUDA O ALERGIA"
+        },
+        {
+            "code": "80",
+            "value": "EFECTO DEL TIEMPO, DEL CLIMA U OTRO RELACIONADO CON EL AMBIENTE"
+        },
+        {
+            "code": "81",
+            "value": "ASFIXIA"
+        },
+        {
+            "code": "82",
+            "value": "EFECTO DE LA ELECTRICIDAD"
+        },
+        {
+            "code": "83",
+            "value": "EFECTO NOCIVO DE LA RADIACIÓN"
+        },
+        {
+            "code": "90",
+            "value": "LESIONES MÚLTIPLES"
+        },
+        {
+            "code": "99",
+            "value": "OTRO. (Especifique)"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+INSERT INTO ausentismos.users
+(name, email, email_verified_at, password, two_factor_secret, two_factor_recovery_codes, two_factor_confirmed_at, remember_token, current_team_id, profile_photo_path, created_at, updated_at)
+VALUES('Juan Esteban Berrío', 'juanestebanberrio@gmail.com', NULL, '$2y$10$B8dYFc7./cWf2cSiTQsX5OyVdUOrmCCgQ3fXcsf4xKQT5i8e5feXy', NULL, NULL, NULL, NULL, NULL, NULL, '2022-07-12 15:01:28.000', '2022-07-12 15:01:28.000');

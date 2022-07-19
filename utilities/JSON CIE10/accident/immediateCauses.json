@@ -1,0 +1,500 @@
+{
+    "data": [
+        {
+            "acts": [
+                {
+                    "code": "050",
+                    "value": "LIMPIEZA, LUBRICACIÓN, AJUSTE O REPARACIÓN DE EQUIPO MÓVIL ELÉCTRICO O DE PRESIÓN"
+                },
+                {
+                    "code": "051",
+                    "value": "Apretar con martillo, empacar, etc., equipo bajo presión (recipientes a presión, válvulas, uniones, tubos, conexiones, etc.)"
+                },
+                {
+                    "code": "052",
+                    "value": "Limpiar, lubricar, ajustar, etc., equipo en movimiento"
+                },
+                {
+                    "code": "056",
+                    "value": "Soldar, reparar, etc., tanques, recipientes o equipo sin permiso del supervisor con respecto a la presencia de vapores, sustancias químicas peligrosas, etc."
+                },
+                {
+                    "code": "057",
+                    "value": "Trabajar en equipo cargado eléctricamente (motores, generadores, líneas, etc.)"
+                },
+                {
+                    "code": "059",
+                    "value": "No especificada en otra parte"
+                },
+                {
+                    "code": "100",
+                    "value": "OMITIR EL USO DE EQUIPO DE PROTECCIÓN PERSONAL DISPONIBLE"
+                },
+                {
+                    "code": "150",
+                    "value": "OMITIR EL USO DE ATUENDO PERSONAL SEGURO (Uso de zapatos de tacón alto, pelo suelto, mangas largas, ropa suelta, anillos, relojes, etc.)"
+                },
+                {
+                    "code": "200",
+                    "value": "NO ASEGURAR O ADVERTIR"
+                },
+                {
+                    "code": "201",
+                    "value": "Omitir, cerrar, bloquear o asegurar los vehículos, interruptores, válvulas, prensas, otras herramientas, materiales y equipo, contra movimientos inesperados, flujo de corriente eléctrica, vapor, etc."
+                },
+                {
+                    "code": "202",
+                    "value": "Omitir el cierre del equipo que no está en uso"
+                },
+                {
+                    "code": "203",
+                    "value": "Omitir la colocación de avisos, señales, tarjetas, etc."
+                },
+                {
+                    "code": "205",
+                    "value": "Soltar o mover pesos, etc., sin dar aviso o advertencia adecuada"
+                },
+                {
+                    "code": "207",
+                    "value": "Iniciar o parar vehículos o equipos sin dar el aviso adecuado"
+                },
+                {
+                    "code": "209",
+                    "value": "No especificados en otra parte"
+                },
+                {
+                    "code": "250",
+                    "value": "BROMAS O JUEGOS PESADOS (Distraer, fastidiar, molestar, asustar, reñir, chansearse pesadamente, lanzar materiales, exhibirse burlonamente, etc.)"
+                },
+                {
+                    "code": "300",
+                    "value": "USO INADECUADO DEL EQUIPO"
+                },
+                {
+                    "code": "301",
+                    "value": "Uso del material o equipo de una manera para la cual no está indicado"
+                },
+                {
+                    "code": "305",
+                    "value": "Recargar de pesos (vehículos, andamios, etc.)"
+                },
+                {
+                    "code": "309",
+                    "value": "No especificados en otra parte"
+                },
+                {
+                    "code": "350",
+                    "value": "USO INAPROPIADO DE LAS MANOS O PARTES DEL CUERPO"
+                },
+                {
+                    "code": "353",
+                    "value": "Agarrar los objetos inseguramente"
+                },
+                {
+                    "code": "355",
+                    "value": "Agarrar los objetos en forma errada"
+                },
+                {
+                    "code": "356",
+                    "value": "Usar las manos en lugar de las herramientas manuales (para alimentar, limpiar, reparar, ajustar, etc.)"
+                },
+                {
+                    "code": "359",
+                    "value": "No especificadas en otra parte"
+                },
+                {
+                    "code": "400",
+                    "value": "FALTA DE ATENCIÓN A LAS CONDICIONES DEL PISO O LAS VECINDADES"
+                },
+                {
+                    "code": "450",
+                    "value": "HACER INOPERANTES LOS DISPOSITIVOS DE SEGURIDAD"
+                },
+                {
+                    "code": "452",
+                    "value": "Bloquear, tapar, atar, etc., los dispositivos de seguridad"
+                },
+                {
+                    "code": "453",
+                    "value": "Desconectar o quitar los dispositivos de seguridad"
+                },
+                {
+                    "code": "454",
+                    "value": "Colocar mal los dispositivos de seguridad"
+                },
+                {
+                    "code": "456",
+                    "value": "Reemplazar los dispositivos de seguridad por otros de capacidad inapropiada (fusibles con mayor amperaje eléctrico, válvulas de seguridad de baja capacidad, etc.)"
+                },
+                {
+                    "code": "459",
+                    "value": "No especificados en otra parte"
+                },
+                {
+                    "code": "500",
+                    "value": "OPERAR O TRABAJAR A VELOCIDAD INSEGURA"
+                },
+                {
+                    "code": "502",
+                    "value": "Alimentar o suministrar muy rápidamente"
+                },
+                {
+                    "code": "503",
+                    "value": "Saltar desde partes elevadas (vehículos, plataformas, etc.)"
+                },
+                {
+                    "code": "505",
+                    "value": "Operar los vehículos de la planta a velocidad insegura"
+                },
+                {
+                    "code": "506",
+                    "value": "Correr"
+                },
+                {
+                    "code": "508",
+                    "value": "Lanzar material en lugar de cargarlo o pasarlo"
+                },
+                {
+                    "code": "509",
+                    "value": "No especificados en otra parte"
+                },
+                {
+                    "code": "550",
+                    "value": "ADOPTAR UNA POSICIÓN INSEGURA"
+                },
+                {
+                    "code": "552",
+                    "value": "Entrar en tanques, cajones u otros espacios encerrados sin el debido permiso del supervisor"
+                },
+                {
+                    "code": "555",
+                    "value": "Viajar en posición insegura (en plataformas, horquillas o levantadores, elevadores, en el gancho de una grúa, etc.)"
+                },
+                {
+                    "code": "556",
+                    "value": "Exponerse innecesariamente bajo cargas suspendidas"
+                },
+                {
+                    "code": "557",
+                    "value": "Exponerse innecesariamente a cargas oscilantes"
+                },
+                {
+                    "code": "558",
+                    "value": "Exponerse innecesariamente a materiales o equipos que se mueven"
+                },
+                {
+                    "code": "559",
+                    "value": "No especificados en otra parte"
+                },
+                {
+                    "code": "600",
+                    "value": "ERRORES DE CONDUCCIÓN"
+                },
+                {
+                    "code": "601",
+                    "value": "Conducir demasiado rápido o demasiado despacio"
+                },
+                {
+                    "code": "602",
+                    "value": "Entrar o salir del vehículo por el lado del tráfico"
+                },
+                {
+                    "code": "603",
+                    "value": "No hacer la señal cuando se para, se voltea o se retrocede"
+                },
+                {
+                    "code": "604",
+                    "value": "Omitir el otorgamiento del derecho de vía"
+                },
+                {
+                    "code": "605",
+                    "value": "No obedecer las señales o signos del control del tráfico"
+                },
+                {
+                    "code": "606",
+                    "value": "No guardar la distancia"
+                },
+                {
+                    "code": "607",
+                    "value": "Pasar inapropiadamente"
+                },
+                {
+                    "code": "608",
+                    "value": "Voltear inapropiadamente"
+                },
+                {
+                    "code": "609",
+                    "value": "No especificados en otra parte"
+                },
+                {
+                    "code": "650",
+                    "value": "COLOCAR, MEZCLAR, COMBINAR, ETC., INSEGURAMENTE"
+                },
+                {
+                    "code": "653",
+                    "value": "Inyectar, mezclar o combinar una sustancia con otra, de manera que se cree un riesgo de explosión, fuego u otro"
+                },
+                {
+                    "code": "655",
+                    "value": "Colocación insegura de vehículos o equipo de movimiento de materiales (estacionar, situar, parar, o dejar vehículos elevadores o aparatos de transporte en posición insegura para cargar o descargar)"
+                },
+                {
+                    "code": "657",
+                    "value": "Colocación insegura de materiales, herramientas, desechos, etc. (como para crear riesgos de derrumbe, tropezón, choque o resbalón, etc.)"
+                },
+                {
+                    "code": "659",
+                    "value": "No especificados en otra parte"
+                },
+                {
+                    "code": "750",
+                    "value": "USAR EQUIPO INSEGURO (Equipo rotulado o conocido como defectuoso)"
+                },
+                {
+                    "code": "900",
+                    "value": "ACTO SUBESTÁNDAR NO ESPECIFICADO EN OTRA PARTE"
+                },
+                {
+                    "code": "998",
+                    "value": "Ningún acto subestándar"
+                },
+                {
+                    "code": "999",
+                    "value": "Sin clasificación (Datos insuficientes)"
+                }
+            ]
+        },
+        {
+            "conditions": [
+                {
+                    "code": "000",
+                    "value": "DEFECTO DE LOS AGENTES"
+                },
+                {
+                    "code": "001",
+                    "value": "Elaborado con materiales inadecuados"
+                },
+                {
+                    "code": "005",
+                    "value": "Romo, embotado, obtuso"
+                },
+                {
+                    "code": "010",
+                    "value": "Elaborado, construido, ensamblado inapropiadamente"
+                },
+                {
+                    "code": "015",
+                    "value": "Diseñado inapropiadamente"
+                },
+                {
+                    "code": "020",
+                    "value": "Áspero, tosco"
+                },
+                {
+                    "code": "025",
+                    "value": "Agudo, cortante"
+                },
+                {
+                    "code": "030",
+                    "value": "Resbaloso"
+                },
+                {
+                    "code": "035",
+                    "value": "Desgastado, cuarteado, raído, roto, etc."
+                },
+                {
+                    "code": "099",
+                    "value": "Otros defectos no especificados en otra parte"
+                },
+                {
+                    "code": "100",
+                    "value": "RIESGO DE LA ROPA O VESTUARIO"
+                },
+                {
+                    "code": "110",
+                    "value": "Carencia del equipo de protección personal necesario"
+                },
+                {
+                    "code": "113",
+                    "value": "opa inadecuada o inapropiada"
+                },
+                {
+                    "code": "199",
+                    "value": "Riesgos de la ropa o vestuario no especificados en otra parte"
+                },
+                {
+                    "code": "200",
+                    "value": "RIESGOS AMBIENTALES NO ESPECIFICADOS EN OTRA PARTE"
+                },
+                {
+                    "code": "205",
+                    "value": "Ruido excesivo"
+                },
+                {
+                    "code": "210",
+                    "value": "Espacio inadecuado de los pasillos, salidas, etc."
+                },
+                {
+                    "code": "220",
+                    "value": "Espacio libre inadecuado para movimientos de personas u objetos"
+                },
+                {
+                    "code": "230",
+                    "value": "Control inadecuado del tráfico"
+                },
+                {
+                    "code": "240",
+                    "value": "Ventilación general inadecuada, no debida a equipo defectuoso"
+                },
+                {
+                    "code": "250",
+                    "value": "Insuficiente espacio de trabajo"
+                },
+                {
+                    "code": "260",
+                    "value": "Iluminación inadecuada (insuficiente luz para la operación, brillo, etc.)"
+                },
+                {
+                    "code": "299",
+                    "value": "Riesgos ambientales no especificados en otra parte"
+                },
+                {
+                    "code": "300",
+                    "value": "MÉTODOS O PROCEDIMIENTOS PELIGROSOS"
+                },
+                {
+                    "code": "310",
+                    "value": "Uso de material o equipo de por sí peligroso (no defectuoso)"
+                },
+                {
+                    "code": "320",
+                    "value": "Uso de métodos o procedimientos de por sí peligrosos"
+                },
+                {
+                    "code": "330",
+                    "value": "Uso de herramientas o equipo inadecuado o inapropiado (no defectuoso)"
+                },
+                {
+                    "code": "339",
+                    "value": "Métodos o procedimientos peligrosos, no especificados en otra parte"
+                },
+                {
+                    "code": "340",
+                    "value": "Ayuda inadecuada para levantar cosas pesadas"
+                },
+                {
+                    "code": "350",
+                    "value": "Ubicación del personal inapropiada (sin tener en cuenta las limitaciones físicas, habilidades, etc.)"
+                },
+                {
+                    "code": "400",
+                    "value": "RIESGO DE COLOCACIÓN O EMPLAZAMIENTO (MATERIALES, EQUIPOS, ETC., EXCEPTUANDO LAS PERSONAS)"
+                },
+                {
+                    "code": "410",
+                    "value": "Inapropiadamente apilado"
+                },
+                {
+                    "code": "420",
+                    "value": "Colocados o emplazados inadecuadamente"
+                },
+                {
+                    "code": "430",
+                    "value": "Inadecuadamente asegurados contra movimientos inconvenientes (exceptuando apilamiento inestable)"
+                },
+                {
+                    "code": "500",
+                    "value": "INADECUADAMENTE PROTEGIDO"
+                },
+                {
+                    "code": "510",
+                    "value": "Sin protección (riesgos mecánicos o físicos exceptuando riesgos eléctricos y radiaciones)"
+                },
+                {
+                    "code": "520",
+                    "value": "Inadecuadamente protegido (riesgos mecánicos o físicos exceptuando riesgos eléctricos y radiaciones)"
+                },
+                {
+                    "code": "530",
+                    "value": "Carencia de o inadecuado apuntalamiento o entibación de minería, excavaciones, construcciones, etc."
+                },
+                {
+                    "code": "540",
+                    "value": "Sin conexión a tierra (eléctrico)"
+                },
+                {
+                    "code": "550",
+                    "value": "Sin aislamiento (eléctrico)"
+                },
+                {
+                    "code": "560",
+                    "value": "Conexiones, interruptores, etc., descubiertos (eléctrico)"
+                },
+                {
+                    "code": "570",
+                    "value": "Sin protección (radiación)"
+                },
+                {
+                    "code": "580",
+                    "value": "Inadecuadamente protegido (radiación)"
+                },
+                {
+                    "code": "590",
+                    "value": "Materiales sin rótulo o inadecuadamente rotulados"
+                },
+                {
+                    "code": "599",
+                    "value": "Inadecuadamente protegido, no especificado en otra parte"
+                },
+                {
+                    "code": "600",
+                    "value": "RIESGOS AMBIENTALES EN TRABAJOS EXTERIORES, DISTINTOS A LOS OTROS RIESGOS PÚBLICOS"
+                },
+                {
+                    "code": "610",
+                    "value": "Predios o cosas defectuosas de extraños"
+                },
+                {
+                    "code": "620",
+                    "value": "Materiales o equipo defectuoso de extraños"
+                },
+                {
+                    "code": "630",
+                    "value": "Otros riesgos asociados con la propiedad u operaciones de extraños"
+                },
+                {
+                    "code": "640",
+                    "value": "Riesgos naturales (riesgos de terrenos irregulares e inestables, exposición a elementos, animales salvajes, etc., encontradas en operaciones a campo abierto)"
+                },
+                {
+                    "code": "700",
+                    "value": "RIESGOS PÚBLICOS"
+                },
+                {
+                    "code": "710",
+                    "value": "Riesgos del transporte público"
+                },
+                {
+                    "code": "720",
+                    "value": "Riesgo del tráfico"
+                },
+                {
+                    "code": "780",
+                    "value": "Otros riesgos públicos (riesgos de lugares públicos a los cuales también está expuesto el público en general)"
+                },
+                {
+                    "code": "980",
+                    "value": "CONDICIONES AMBIENTALES PELIGROSAS NO ESPECIFICADAS EN OTRA PARTE"
+                },
+                {
+                    "code": "990",
+                    "value": "Indeterminada información insuficiente"
+                },
+                {
+                    "code": "999",
+                    "value": "No hay condición ambiental peligrosa"
+                }
+            ]
+        }
+    ]
+}
