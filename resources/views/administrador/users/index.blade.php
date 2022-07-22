@@ -3,12 +3,17 @@
 @section('title', 'Usuarios')
 
 @section('content_header')
-    {{-- <h1>Administración de Usuarios</h1> --}}
-    <a href="{{route('administrador.users.create')}}"class="btn btn-outline-info float-left">Crear Usuario</a>
-    <br/><br/>
+<div class="card-transparent" >
+    <div class="card-body">
+        {{-- <h1>Administración de Usuarios</h1> --}}
+        <a href="{{route('administrador.users.create')}}"class="btn btn-outline-info float-left">Crear Usuario</a>
+    </div>
+</div>
 @stop
+
 @section('content')
 @include('sweetalert::alert')
+<div class="card-transparent" >
     <div class="card-body">
         <table class="table table-striped table-bordered table-content">
             <thead align="center" style="color: #fff; background-color: #17a2b8">
@@ -41,6 +46,7 @@
             </tbody>
         </table>
     </div>
+</div>
 @stop
 
 @section('css')

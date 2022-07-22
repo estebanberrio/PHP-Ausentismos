@@ -22,6 +22,6 @@
     {!! Form::label('status', 'Estado') !!}
     {!! Form::select('status',
     ['Activo' => 'Activo', 'Inactivo' => 'Inactivo'], null,
-    ['placeholder' => 'Seleccione el estado', 'required']) !!}
+    ['placeholder' => 'Seleccione el estado', 'required', 'class' => 'form-control','style'=>'width : 50%']) !!}
 
 </div>

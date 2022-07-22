@@ -45,7 +45,7 @@ return [
     |
     */
 
-    'logo' => '<b style="color:#17a2b8">View Foundation</style=></b>',
+    'logo' => '<b style="color:#17a2b8">Empresa</style=></b>',
     'logo_img' => 'vendor/adminlte/dist/img/AdminLTELogo3.png',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
