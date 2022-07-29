@@ -4,8 +4,9 @@
 
 @section('content_header')
     {{-- <h1>Administración de Usuarios</h1> --}}
-    <a href="{{route('administrador.users.create')}}"class="btn btn-outline-info float-left">Crear Usuario</a>
-    <br/><br/>
+    <div class="card-body">
+        <a href="{{route('administrador.users.create')}}"class="btn btn-outline-info float-left">Crear Usuario</a>
+    </div>
 @stop
 @section('content')
 @include('sweetalert::alert')
