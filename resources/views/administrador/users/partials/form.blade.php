@@ -21,5 +21,9 @@
     {!! Form::select('status',
     ['Activo' => 'Activo', 'Inactivo' => 'Inactivo'], null,
     ['placeholder' => 'Seleccione el estado', 'required', 'class' => 'form-control','style'=>'width : 50%']) !!}
+<<<<<<< HEAD
     <br/>
+=======
+
+>>>>>>> 4aea05fc96d01ebc2a54db82a42826aff6815fa0
 </div>
